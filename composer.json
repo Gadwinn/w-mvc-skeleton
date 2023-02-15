@@ -13,6 +13,10 @@
     },
     "require": {
         "php": "^8.0",
+<<<<<<< HEAD
         "gadwinn/w_mvc": "dev-master"
+=======
+        "gadwinn/wmvc": "dev-master"
+>>>>>>> fc5ef9f3cd721f28e8620ff8da44d62d086c072a
     }
 }
