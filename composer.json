@@ -3,7 +3,7 @@
     "type": "project",
     "description": "Structure for Wmvc",
     "minimum-stability": "dev",
-    "license": "GPL3+",
+    "license": "proprietary",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
