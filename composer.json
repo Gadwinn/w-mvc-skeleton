@@ -1,5 +1,5 @@
 {
-    "name": "gadwinn/wmvc-skeleton",
+    "name": "gadwinn/w-mvc-skeleton",
     "type": "project",
     "description": "Structure for Wmvc",
     "version": "0.0.1dev",
@@ -13,6 +13,6 @@
     },
     "require": {
         "php": "^8.0",
-        "gadwinn/wmvc": "dev-master"
+        "gadwinn/w-mvc": "dev-master"
     }
 }
